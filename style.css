@@ -1,19 +1,17 @@
 body{
 border:solid 5px rgb(0, 0, 0);
 border-radius: 30px;
-margin-left: 700px;
-margin-right: 600px;
+margin-left: 500px;
+margin-right: 500px;
 }
 h1{
     color: rgb(0, 255, 0);
     font-family: 'Ceviche One', cursive;
-    margin-left: 200px;
 
 }
 p{
     font-style: Arial;
     color:rgb(0, 255, 0);
-    margin-left: 250px;
 }
 .impostos{
     display: flex;
