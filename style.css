@@ -1,3 +1,23 @@
+body{
+
+
+    
+}
+
+
 h1{
-    color: blue;
+    color: green;
+    font-family: 'Ceviche One', cursive;
+    margin-left: 200px;
+
+}
+p{
+    font-style: Arial;
+    color:green;
+    margin-left: 250px;
+}
+.impostos{
+    display: flex;
+    width: 60%;
+    flex-direction: column;
 }
